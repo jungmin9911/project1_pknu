@@ -1,5 +1,8 @@
 package com.pknu.todo.controller;
 
-public class TdController {
+import org.springframework.stereotype.Controller;
 
+@Controller
+public class TdController {
+    
 }
