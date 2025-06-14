@@ -1,10 +1,10 @@
-package com.testspring.spring;
+package com.pknu.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class TodoApplicationTests {
 
 	@Test
 	void contextLoads() {
